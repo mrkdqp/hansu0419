@@ -7,7 +7,7 @@
 
 <h2 align="center">Skills</h2>
 <p align=center>
-  <img src="https://skillicons.dev/icons?i=arch,bash,c,docker,git,github,html,css,java,js,jquery,kali,linux,md,mongodb,mysql,neovim,nodejs,powershell,py,regex,vscode&perline=8">
+  <img src="https://skillicons.dev/icons?i=c,docker,html,css,java,js,jquery,md,mongodb,mysql,nodejs,py,vscode&perline=8">
 </p>
 
 <h2 align="left">Connect with me:</h2>
