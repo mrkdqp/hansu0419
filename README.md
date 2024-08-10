@@ -1,5 +1,3 @@
-
-![Banner GitHub](https://github.com/hansu0419/hansu0419/guthubcode.png)
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
