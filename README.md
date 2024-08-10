@@ -1,4 +1,7 @@
-<!-- Intro  -->
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=80a9fd&text=MRKDQP&desc=A%20CyberSecurity%20Specialist%20in%20the%20making&descAlign=65&textBg=false&descAlignY=65&fontColor=fff"/>
+</p>
+
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b>mrkdqp</a></b>
